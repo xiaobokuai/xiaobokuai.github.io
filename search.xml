@@ -21,12 +21,13 @@
   <entry>
     <title>test</title>
     <url>/2021/05/08/test/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>测试文字</p>
+]]></content>
       <categories>
-        <category>mybatis</category>
+        <category>文字</category>
       </categories>
       <tags>
-        <tag>mybatis</tag>
+        <tag>测试</tag>
       </tags>
   </entry>
 </search>
