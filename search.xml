@@ -22,6 +22,7 @@
     <title>img</title>
     <url>/2021/05/08/img/</url>
     <content><![CDATA[<p>tutututut</p>
+<p><img src="https://raw.githubusercontent.com/Lcamn/picgo/master/img/20210508113409.jpg" class="lazyload" data-srcset="https://raw.githubusercontent.com/Lcamn/picgo/master/img/20210508113409.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p>
 ]]></content>
   </entry>
   <entry>
@@ -35,5 +36,10 @@
       <tags>
         <tag>测试</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>国语</title>
+    <url>/2021/05/10/%E5%9B%BD%E8%AF%AD/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
