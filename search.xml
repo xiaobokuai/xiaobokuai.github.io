@@ -1,83 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>十一月2日</title>
-      <link href="2021/05/10/%E5%9B%BD%E8%AF%AD/"/>
-      <url>2021/05/10/%E5%9B%BD%E8%AF%AD/</url>
-      
-        <content type="html"><![CDATA[<p>十一月2日 周六 早上阴，冷 中午晴，热<br>陪mire去参加农业银行招聘考试，早上六点就发来了消息<br>“你醒了吗”<br>“醒了”<br>“我好冷，我先起了”<br>“好的，你穿厚点 我过会就起了”<br>“好”<br>～<br>“好冷啊”<br>“让你穿厚点的”<br>“但是我看天气预报了，说是22度”<br>“我觉得没有”<br>～<br>“是不是觉得站着不会晕车”<br>“对啊”<br>～<br>“第一次有人来送我考试诶，中考高考都是我自己去的”<br>“那你家应该离学校挺近的”<br>“也不近吧，，”<br>“哈哈哈哈哈哈”<br>～<br>“我考试，这三个半小时 你去哪啊”<br>“我去玩”<br>“去哪玩”<br>“不知道,再看吧”<br>“那你到时候给我发个位置，我去找你，我们去吃火锅”<br>“好，那你先上去吧”<br>“拜拜”<br>“拜拜（想说加油的 忘了）”</p><p>因为不是成都人啊，三个小时能去哪玩呢，emmm还是去了网吧，<br>“老板，多少钱一个小时?”<br>“看是会员还是临时了，会员5块，临时10块，你要上多长时间”<br>“三个小时，办会员多少钱？”<br>“30”<br>“那一样啊，给我办个会员吧”<br>“好的”<br>应该去竞技区的，因为去上洗手间的时候路过，看到竞技区的鼠标是罗技的，应该是G402。看时间12点了，下机，看了下余额还剩20… QAQ<br>“我想了半年，还是去上网比较好，你考完了我去找你”<br>～<br>“你在哪”<br>“门口”<br>“好”</p><p>“怎么样”<br>“题目太多了，考的也很杂 物理化学生物都有”<br>“哇 这么秀吗”<br>“对啊，我觉得应该没有能过的吧”<br>“哈哈哈哈哈哈”<br>“那我们去哪吃火锅”<br>“我看看～～这里，评价挺好的”<br>“怎么去，店名叫什么”<br>“坐地铁，我把地址分享给你”</p><p>“我来过这，前面就是四川大学”<br>“想去转转，但是吃饭要紧”</p><p>火锅串串，（我们今天竟然穿了同款卫衣，而且外套也很像）我觉得量不是很够，后面又加了一点，超了30串，但是当时的宗旨就是 吃饱就行，钱的事都好说，奶啤8块钱一罐，贵了好多，我就没买。</p><p>“待会去哪”<br>“去看电影”<br>“那个 沉睡什么的那个吗”<br>“对 我查查 ～ 晚上九点的都是”<br>“emmmm我们等不了那么久”<br>“那就看那个最近上映的吧，易烊千玺的”<br>“好的”</p><p>晚上去吃炒年糕。错过了末班有轨电车，等了一会，发现是真的错过了，于是就打的回了。</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/05/08/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>img</title>
+    <url>/2021/05/08/img/</url>
+    <content><![CDATA[<p>tutututut</p>
+<p><img src="https://raw.githubusercontent.com/Lcamn/picgo/master/img/20210508113409.jpg" class="lazyload" data-srcset="https://raw.githubusercontent.com/Lcamn/picgo/master/img/20210508113409.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2021/05/08/test/</url>
+    <content><![CDATA[<p>测试文字</p>
+]]></content>
       <categories>
-          
-          <category> 文字 </category>
-          
+        <category>文字</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 日记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>img</title>
-      <link href="2021/05/08/img/"/>
-      <url>2021/05/08/img/</url>
-      
-        <content type="html"><![CDATA[<p>tutututut</p><p><img src="https://raw.githubusercontent.com/Lcamn/picgo/master/img/20210508113409.jpg" class="lazyload" data-srcset="https://raw.githubusercontent.com/Lcamn/picgo/master/img/20210508113409.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="2021/05/08/test/"/>
-      <url>2021/05/08/test/</url>
-      
-        <content type="html"><![CDATA[<p>测试文字</p>]]></content>
-      
-      
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>十一月2日</title>
+    <url>/2021/05/10/%E5%9B%BD%E8%AF%AD/</url>
+    <content><![CDATA[<p>十一月2日 周六 早上阴，冷 中午晴，热<br>陪mire去参加农业银行招聘考试，早上六点就发来了消息<br>“你醒了吗”<br>“醒了”<br>“我好冷，我先起了”<br>“好的，你穿厚点 我过会就起了”<br>“好”<br>～<br>“好冷啊”<br>“让你穿厚点的”<br>“但是我看天气预报了，说是22度”<br>“我觉得没有”<br>～<br>“是不是觉得站着不会晕车”<br>“对啊”<br>～<br>“第一次有人来送我考试诶，中考高考都是我自己去的”<br>“那你家应该离学校挺近的”<br>“也不近吧，，”<br>“哈哈哈哈哈哈”<br>～<br>“我考试，这三个半小时 你去哪啊”<br>“我去玩”<br>“去哪玩”<br>“不知道,再看吧”<br>“那你到时候给我发个位置，我去找你，我们去吃火锅”<br>“好，那你先上去吧”<br>“拜拜”<br>“拜拜（想说加油的 忘了）”</p>
+<p>因为不是成都人啊，三个小时能去哪玩呢，emmm还是去了网吧，<br>“老板，多少钱一个小时?”<br>“看是会员还是临时了，会员5块，临时10块，你要上多长时间”<br>“三个小时，办会员多少钱？”<br>“30”<br>“那一样啊，给我办个会员吧”<br>“好的”<br>应该去竞技区的，因为去上洗手间的时候路过，看到竞技区的鼠标是罗技的，应该是G402。看时间12点了，下机，看了下余额还剩20… QAQ<br>“我想了半年，还是去上网比较好，你考完了我去找你”<br>～<br>“你在哪”<br>“门口”<br>“好”</p>
+<p>“怎么样”<br>“题目太多了，考的也很杂 物理化学生物都有”<br>“哇 这么秀吗”<br>“对啊，我觉得应该没有能过的吧”<br>“哈哈哈哈哈哈”<br>“那我们去哪吃火锅”<br>“我看看～～这里，评价挺好的”<br>“怎么去，店名叫什么”<br>“坐地铁，我把地址分享给你”</p>
+<p>“我来过这，前面就是四川大学”<br>“想去转转，但是吃饭要紧”</p>
+<p>火锅串串，（我们今天竟然穿了同款卫衣，而且外套也很像）我觉得量不是很够，后面又加了一点，超了30串，但是当时的宗旨就是 吃饱就行，钱的事都好说，奶啤8块钱一罐，贵了好多，我就没买。</p>
+<p>“待会去哪”<br>“去看电影”<br>“那个 沉睡什么的那个吗”<br>“对 我查查 ～ 晚上九点的都是”<br>“emmmm我们等不了那么久”<br>“那就看那个最近上映的吧，易烊千玺的”<br>“好的”</p>
+<p>晚上去吃炒年糕。错过了末班有轨电车，等了一会，发现是真的错过了，于是就打的回了。</p>
+]]></content>
       <categories>
-          
-          <category> 文字 </category>
-          
+        <category>文字</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 测试 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="2021/05/08/hello-world/"/>
-      <url>2021/05/08/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
 </search>
