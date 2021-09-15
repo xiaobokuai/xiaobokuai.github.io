@@ -21,13 +21,13 @@
 }
 @font-face {
   font-family: 'UbuntuMono';
-  src: url("https://cdn.jsdelivr.net/gh/inkss/common@master/hexo/fonts/foundertype/fwzcN.OTF");
+  src: url("https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf");
   font-weight: 'normal';
   font-style: 'normal';
 }
 @font-face {
   font-family: 'Varela Round';
-  src: url("https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentyGoldenBell.woff2");
+  src: url("https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/MaShanZheng-Regular.woff2");
   font-weight: 'normal';
   font-style: 'normal';
 }
@@ -568,7 +568,7 @@ th {
   margin-top: 32px;
 }
 .cover-wrapper .cover-body .title {
-  font-family: SentyGoldenBell, Helvetica, monospace;
+  font-family: MaShanZheng, Helvetica, monospace;
   font-size: 3.125rem;
   line-height: 1.2;
   text-shadow: 0 1px 2px rgba(0,0,0,0.1);
@@ -932,7 +932,7 @@ th {
   line-height: 64px;
   padding: 0 24px;
   font-size: 1.25rem;
-  font-family: SentyGoldenBell, Helvetica, monospace;
+  font-family: MaShanZheng, Helvetica, monospace;
 }
 .l_header #wrapper .nav-main .title img {
   height: 64px;

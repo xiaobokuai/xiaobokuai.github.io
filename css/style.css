@@ -18,13 +18,13 @@
 }
 @font-face {
   font-family: 'UbuntuMono';
-  src: url("https://cdn.jsdelivr.net/gh/inkss/common@master/hexo/fonts/foundertype/fwzcN.OTF");
+  src: url("https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf");
   font-weight: 'normal';
   font-style: 'normal';
 }
 @font-face {
   font-family: 'Varela Round';
-  src: url("https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentyGoldenBell.woff2");
+  src: url("https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/MaShanZheng-Regular.woff2");
   font-weight: 'normal';
   font-style: 'normal';
 }
@@ -1307,7 +1307,7 @@ p.p.subtitle:first-child {
 }
 span.p.logo,
 p.p.logo {
-  font-family: SentyGoldenBell, Helvetica, monospace;
+  font-family: MaShanZheng, Helvetica, monospace;
 }
 span.p.code,
 p.p.code {
