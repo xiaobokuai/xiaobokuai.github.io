@@ -1311,7 +1311,7 @@ p.p.logo {
 }
 span.p.code,
 p.p.code {
-  font-family: Menlo, UbuntuMono, Monaco, monospace, courier, sans-serif;
+  font-family: Menlo, Monaco, monospace, courier, sans-serif;
 }
 span.p.left,
 p.p.left {
@@ -1741,7 +1741,7 @@ pre {
   display: block;
   background: var(--color-block);
   font-size: 0.8125rem;
-  font-family: Menlo, UbuntuMono, Monaco, monospace, courier, sans-serif;
+  font-family: Menlo, Monaco, monospace, courier, sans-serif;
   border-radius: 4px;
   line-height: 1.5;
   -webkit-font-smoothing: auto;
@@ -2089,7 +2089,7 @@ pre {
   color: #e24f5a;
 }
 .article mjx-container {
-  font-family: Menlo, UbuntuMono, Monaco, monospace, courier, sans-serif;
+  font-family: Menlo, Monaco, monospace, courier, sans-serif;
   padding: 16px 8px;
   border-radius: 4px;
   min-width: 0 !important;
@@ -2449,7 +2449,7 @@ article#comments #valine_container .vcards .vcontent blockquote {
 }
 article#comments #valine_container .vcards .vcontent code {
   color: var(--color-p);
-  font-family: Menlo, UbuntuMono, Monaco, monospace, courier, sans-serif;
+  font-family: Menlo, Monaco, monospace, courier, sans-serif;
 }
 article#comments #valine_container .vcards .vcontent pre {
   background: var(--color-codeblock);
@@ -2923,7 +2923,7 @@ article#tag .all-tags ul li span:before {
   overflow: auto;
   background: var(--color-codeblock);
   font-size: 0.8125rem;
-  font-family: Menlo, UbuntuMono, Monaco, monospace, courier, sans-serif;
+  font-family: Menlo, Monaco, monospace, courier, sans-serif;
   border: 1px solid #ffebcb;
   padding: 16px;
   border-radius: 4px;
