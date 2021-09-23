@@ -234,10 +234,9 @@
     <url>/2021/09/23/Java%E6%B3%9B%E5%9E%8B/</url>
     <content><![CDATA[<h1 id="1-概述"><a href="#1-概述" class="headerlink" title="1. 概述"></a>1. 概述</h1><p>泛型在java中有很重要的地位，在面向对象编程及各种设计模式中有非常广泛的应用。</p>
 <p>什么是泛型？为什么要使用泛型？</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">泛型，即“参数化类型”。一提到参数，最熟悉的就是定义方法时有形参，然后调用此方法时传递实参。那么参数化类型怎么理解呢？顾名思义，就是将类型由原来的具体的类型参数化，类似于方法中的变量参数，此时类型也定义成参数形式（可以称之为类型形参），然后在使用/调用时传入具体的类型（类型实参）。</span><br><span class="line"></span><br><span class="line">泛型的本质是为了参数化类型（在不创建新的类型的情况下，通过泛型指定的不同类型来控制形参具体限制的类型）。也就是说在泛型使用过程中，操作的数据类型被指定为一个参数，这种参数类型可以用在类、接口和方法中，分别被称为泛型类、泛型接口、泛型方法。</span><br></pre></td></tr></table></figure>
-
-
-
+<blockquote>
+<p>泛型，即“参数化类型”。一提到参数，最熟悉的就是定义方法时有形参，然后调用此方法时传递实参。那么参数化类型怎么理解呢？顾名思义，就是将类型由原来的具体的类型参数化，类似于方法中的变量参数，此时类型也定义成参数形式（可以称之为类型形参），然后在使用/调用时传入具体的类型（类型实参）。泛型的本质是为了参数化类型（在不创建新的类型的情况下，通过泛型指定的不同类型来控制形参具体限制的类型）。也就是说在泛型使用过程中，操作的数据类型被指定为一个参数，这种参数类型可以用在类、接口和方法中，分别被称为泛型类、泛型接口、泛型方法。</p>
+</blockquote>
 <h1 id="2-一个栗子"><a href="#2-一个栗子" class="headerlink" title="2. 一个栗子"></a>2. 一个栗子</h1><p>一个被举了无数次的例子：</p>
 <figure class="highlight java"><table><tr><td class="code"><pre><span class="line">List arrayList = <span class="keyword">new</span> ArrayList();</span><br><span class="line">arrayList.add(<span class="string">&quot;aaaa&quot;</span>);</span><br><span class="line">arrayList.add(<span class="number">100</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">0</span>; i&lt; arrayList.size();i++)&#123;</span><br><span class="line">    String item = (String)arrayList.get(i);</span><br><span class="line">    Log.d(<span class="string">&quot;泛型测试&quot;</span>,<span class="string">&quot;item = &quot;</span> + item);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
